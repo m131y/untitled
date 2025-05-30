@@ -1,7 +1,13 @@
 public class Main {
     public static void main(String[] args) {
-
-        System.out.println("hello");
+        int age = 25;
+        System.out.println(age);
+        age = 26;
+        System.out.println(age);
+        double salary = 50000.75;
+        System.out.println(salary);
+        String name = "조민영";
+        System.out.println(name);
     }
 
 }
